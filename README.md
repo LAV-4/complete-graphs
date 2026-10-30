@@ -143,8 +143,23 @@ EXPORT
 --------------------------------------
 
 Using the class 'RunExport' in the package 'io.export' you can export all files of a
-certain folder (specified by 'folderName') to gml-files.
+certain folder to gml-files. Pass the folder name as the program's only argument.
 Note that there should not be to many drawings in this folder, in order to not get an error due to large array size.
+
+For K_7 2-planar drawings, `mainOpt.TestKPlanar` is configured to search from K_4 through K_7
+with planarity 2 and to prepare the K_7 drawing positions. Compile and run from the repository
+root in PowerShell:
+
+```powershell
+New-Item -ItemType Directory -Force bin
+javac -encoding windows-1252 -d bin (Get-ChildItem src -Recurse -Filter *.java | ForEach-Object FullName)
+java -cp bin mainOpt.TestKPlanar
+java -cp bin io.export.RunExport opt2planar_7
+```
+
+The generator keeps topologically non-isomorphic drawings. In this repository version, the
+K_7 search produces two such drawings. Their embedding data and calculated positions are saved
+in `opt2planar_7`; the corresponding GML drawings are saved in `GMLopt2planar_7`.
 
 
 

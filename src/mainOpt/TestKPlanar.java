@@ -13,7 +13,7 @@ public class TestKPlanar extends TestCase {
 	
 	protected TestKPlanar() {
 		
-	    int PLANARITY  = 1;
+	    int PLANARITY  = 2;
 		
 		CLASS_NAME     = "opt" + PLANARITY + "planar";
 		USE_GAPS       = false;
@@ -22,7 +22,7 @@ public class TestKPlanar extends TestCase {
 		TEMP_AVAILABLE = false;
 		
 		START_INDEX    = 4;
-		END_INDEX      = 10;
+		END_INDEX      = 7;
 		
 		Tuple[] biIndices = {
 				new Tuple(2,2),
@@ -71,9 +71,9 @@ public class TestKPlanar extends TestCase {
 		long time = System.currentTimeMillis();
 		
 		test.initComplete();
-		//test.testComplete();
-		//test.prepareDrawingComplete(4);
-		//test.drawComplete(4);
+		test.testComplete();
+		test.prepareDrawingComplete(7);
+		//test.drawComplete(7);
 
 		//test.initBipartite();
 		//test.testBipartite();

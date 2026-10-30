@@ -8,14 +8,16 @@ import io.safeLoad.SafeLoad;
  *
  */
 public class RunExport {
-	
-	// TODO: SPECIFY FOLDER NAME TO EXPORT
-	private static String folderName = "dfs5planar_6_7";
-	
-	
+
 	public static void main(String[] args) {
+		if (args.length != 1) {
+			throw new IllegalArgumentException("Usage: io.export.RunExport <embedding-folder>");
+		}
+
 		System.out.println("Exporting files ...");
-		SafeLoad.exportAll(folderName);
+		if (!SafeLoad.exportAll(args[0])) {
+			throw new IllegalStateException("Could not export embeddings from " + args[0]);
+		}
 		System.out.println("DONE.");
 	}
 

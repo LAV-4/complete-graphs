@@ -1,0 +1,1209 @@
+graph
+[
+	hierarchic	1
+	label	""
+	directed	1
+	node
+	[
+		id	1
+		label	"b1"
+		graphics
+		[
+			x	1020
+			y	1360
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#0000FF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b1"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	2
+		label	"b2"
+		graphics
+		[
+			x	780
+			y	160
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#0000FF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b2"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	3
+		label	"b3"
+		graphics
+		[
+			x	0
+			y	0
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#0000FF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	4
+		label	"b4"
+		graphics
+		[
+			x	1380
+			y	720
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#0000FF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b4"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	5
+		label	"b5"
+		graphics
+		[
+			x	780
+			y	560
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#0000FF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b5"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	6
+		label	"x6"
+		graphics
+		[
+			x	300
+			y	240
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#D228C2"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"x6"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	7
+		label	"b6"
+		graphics
+		[
+			x	840
+			y	1040
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#0000FF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b6"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	8
+		label	"x8"
+		graphics
+		[
+			x	600
+			y	320
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#D228C2"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"x8"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	9
+		label	"x9"
+		graphics
+		[
+			x	420
+			y	480
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#D228C2"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"x9"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	10
+		label	"x10"
+		graphics
+		[
+			x	1080
+			y	800
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#D228C2"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"x10"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	11
+		label	"b7"
+		graphics
+		[
+			x	2040
+			y	0
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#0000FF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b7"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	12
+		label	"x12"
+		graphics
+		[
+			x	1740
+			y	80
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#D228C2"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"x12"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	13
+		label	"x13"
+		graphics
+		[
+			x	1560
+			y	400
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#D228C2"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"x13"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	14
+		label	"x14"
+		graphics
+		[
+			x	1500
+			y	320
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#D228C2"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"x14"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	15
+		label	"x15"
+		graphics
+		[
+			x	1020
+			y	1280
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#D228C2"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"x15"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	node
+	[
+		id	16
+		label	"x16"
+		graphics
+		[
+			x	960
+			y	1200
+			w	30.0
+			h	15.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#D228C2"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"x16"
+			color	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			anchor	"c"
+		]
+	]
+	edge
+	[
+		source	2
+		target	6
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b1"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	1
+		target	3
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	2
+		target	3
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	15
+		target	4
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b4"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	14
+		target	2
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b2"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	12
+		target	3
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	16
+		target	10
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b5"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	5
+		target	2
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b2"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	6
+		target	9
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b1"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	5
+		target	8
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	6
+		target	3
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	5
+		target	4
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b4"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	1
+		target	7
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b6"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	8
+		target	6
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	7
+		target	8
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b2"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	8
+		target	2
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b2"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	9
+		target	1
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b1"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	7
+		target	9
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	9
+		target	3
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	10
+		target	5
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b5"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	7
+		target	10
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b4"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	10
+		target	4
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b4"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	7
+		target	5
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b5"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	1
+		target	11
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b7"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	13
+		target	12
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	11
+		target	12
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b2"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	12
+		target	2
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b2"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	11
+		target	3
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	11
+		target	4
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b4"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	4
+		target	13
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b3"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	11
+		target	13
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b5"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	4
+		target	14
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b2"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	13
+		target	14
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b5"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	14
+		target	5
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b5"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	1
+		target	15
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b4"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	11
+		target	15
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b6"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	1
+		target	16
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b5"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	15
+		target	16
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b6"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+	edge
+	[
+		source	16
+		target	7
+		graphics
+		[
+			fill	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"b6"
+			fill	"#FFFFFF"
+			fontSize	12
+			fontName	"Dialog"
+			configuration	"AutoFlippingLabel"
+			contentWidth	36
+			contentHeight	20
+			model	"centered"
+			position	"center"
+		]
+	]
+]
